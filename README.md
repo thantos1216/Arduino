@@ -1,4 +1,4 @@
-# Arduino
+# Arduino Automated Watering Project
 Arduino Projects
 
-## Repository to house multiple arduino projects that are either completed or in process of completion
+## First uploaded project that is an automated watering system for animals such as Ducks and other small 'farm' creatures.
